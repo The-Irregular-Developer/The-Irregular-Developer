@@ -4,8 +4,12 @@
 - 💞️ I’m looking to collaborate on multiple projects
 - ![7547080541536207303-24](https://user-images.githubusercontent.com/82714219/115122491-22032e80-9f86-11eb-8c40-67d247574afc.png) Favorite IDE: CLion
 - 📫 How to reach me: quincy.sy@yahoo.com
-
+<div align="center">
+   <table>
+     <tr>
+       <td align="center" style="padding=0;width=50%;">
 ![](https://komarev.com/ghpvc/?username=wowza12&color=228B22)
+         </td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowza12)](https://github.com/wowza12)
 
