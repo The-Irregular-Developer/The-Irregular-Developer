@@ -8,7 +8,6 @@
 ![](https://komarev.com/ghpvc/?username=wowza12&color=228B22)
 
 <div align="center">
-   <table>
      <tr>
        <td align="center">
              
