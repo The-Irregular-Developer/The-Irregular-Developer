@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning a language
 - 💞️ I’m looking to collaborate on multiple projects
--![7547080541536207303-24](https://user-images.githubusercontent.com/82714219/115122491-22032e80-9f86-11eb-8c40-67d247574afc.png) Favorite IDE: Visual Studio and CLion
+- ![7547080541536207303-24](https://user-images.githubusercontent.com/82714219/115122491-22032e80-9f86-11eb-8c40-67d247574afc.png) Favorite IDE: CLion
 - 📫 How to reach me: quincy.sy@yahoo.com
 
 ![](https://komarev.com/ghpvc/?username=wowza12&color=228B22)
