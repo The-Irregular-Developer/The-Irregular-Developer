@@ -9,11 +9,13 @@
    <table>
      <tr>
        <td align="center">
+          
 ![](https://komarev.com/ghpvc/?username=wowza12&color=228B22)
          
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowza12)](https://github.com/wowza12)
 
 [![wowza12341's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowza12)](https://github.com/wowza12)
+          </td>
 
 <!---
 wowza12/wowza12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
