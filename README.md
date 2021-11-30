@@ -7,9 +7,9 @@
 
 ![](https://komarev.com/ghpvc/?username=wowza12&color=228B22)
 
-<div align="center" style="padding=0;width=50%;">
+<div align="center">
      <tr>
-       <td align="center">
+       <td align="center" style="padding=0;width=50%;">
              
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowza12)](https://github.com/wowza12)
 
