@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=wowza12&color=228B22)
 
-<div align="center">
+<div align="center" style="padding=0;width=50%;">
      <tr>
        <td align="center">
              
