@@ -13,7 +13,9 @@
              
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowza12)](https://github.com/wowza12)
 
-[![wowza12341's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowza12)](https://github.com/wowza12)
+![wowza12's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowza12&show_icons=true&theme=radical)
+            
+[![wowza12's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowza12)](https://github.com/wowza12)
           </td>
 
 <!---
