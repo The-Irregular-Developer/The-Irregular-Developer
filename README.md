@@ -12,7 +12,6 @@
        <td align="center" style="padding=0;width=50%;">
              
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowza12)](https://github.com/wowza12)
-
 ![wowza12's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowza12&show_icons=true&theme=tokyonight)
             
 [![wowza12's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowza12)](https://github.com/wowza12)
