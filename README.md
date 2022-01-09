@@ -5,7 +5,7 @@
 - ![7547080541536207303-24](https://user-images.githubusercontent.com/82714219/115122491-22032e80-9f86-11eb-8c40-67d247574afc.png) Favorite IDE: Visual Studio and CLion
 - 📫 How to reach me: quincy.sy@yahoo.com
 
-![](https://komarev.com/ghpvc/?username=wowza12&color=228B22)
+![](https://komarev.com/ghpvc/?username=The-Irregular-Developer&color=228B22)
 
 <div align="center">
      <tr>
