@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href = "https://github.com/wowza12">@wowza12</a>
+- 👋 Hi, I’m <a href = "https://github.com/The-Irregular-Developer">@The Irregular Developer</a>
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning a language
 - 💞️ I’m looking to collaborate on multiple projects
