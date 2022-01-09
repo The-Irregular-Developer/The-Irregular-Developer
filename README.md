@@ -11,12 +11,12 @@
      <tr>
        <td align="center" style="padding=0;width=50%;">
              
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowza12)](https://github.com/wowza12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Irregular-Developer)](https://github.com/The-Irregular-Developer)
             
-[![wowza12's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowza12)](https://github.com/wowza12)
+[![The Irregular Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Irregular-Developer)](https://github.com/The-Irregular-Developer)
           </td>
 
 <!---
-wowza12/wowza12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The-Irregular-Developer/The-Irregular-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
