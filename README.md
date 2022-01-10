@@ -1,5 +1,6 @@
 - 👋 Hi, I’m <a href = "https://github.com/The-Irregular-Developer">@The Irregular Developer</a>
 - 👀 I’m interested in coding
+- 📚 I know HTML, CSS, Javascript and C++
 - 🌱 I’m currently learning a language
 - 💞️ I’m looking to collaborate on multiple projects
 - ![7547080541536207303-24](https://user-images.githubusercontent.com/82714219/115122491-22032e80-9f86-11eb-8c40-67d247574afc.png) Favorite IDE: Visual Studio and CLion
