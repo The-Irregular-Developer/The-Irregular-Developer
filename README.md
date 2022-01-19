@@ -15,7 +15,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Irregular-Developer)](https://github.com/The-Irregular-Developer)
             
 [![The Irregular Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Irregular-Developer)](https://github.com/The-Irregular-Developer)
-          </td>
+
+ </td>
+          
+ ![](https://i.imgur.com/3tZGcbh.gif)
 
 <!---
 The-Irregular-Developer/The-Irregular-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
