@@ -14,6 +14,7 @@
              
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Irregular-Developer)](https://github.com/The-Irregular-Developer) </td>
  <td align="center" style="padding=0;width=50%;">
+      
 [![The Irregular Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Irregular-Developer)](https://github.com/The-Irregular-Developer)
       </td>
           
